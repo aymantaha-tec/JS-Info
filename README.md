@@ -56,7 +56,6 @@ Each lesson is broken down into 7 files for deep understanding, quick review, an
 
 - 📘 [javascript.info](https://javascript.info) – Main source
 - 📗 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Reference
-- 🎥 [Akshay Saini – Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) – Great visual explanations
 
 ---
 
