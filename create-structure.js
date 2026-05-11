@@ -20,7 +20,7 @@ const lessons = {
   '14-miscellaneous': ['01-proxy-reflect','02-eval','03-currying','04-reference-type','05-bigint','06-unicode','07-weakref-finalization'],
 };
 
-const files = ['01-explanation.md', '02-summary.md', '03-questions.md', '04-answers.md', '05-advanced.md', '06 interview.md', '07 notes.md'];
+const files = ['01-explanation.md', '02-summary.md', '03-questions.md', '04-answers.md', '05-advanced.md', '06-interview.md', '07-notes.md'];
 
 for (const [chapter, items] of Object.entries(lessons)) {
   for (const lesson of items) {
