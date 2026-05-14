@@ -39,6 +39,7 @@ Each lesson is broken down into 7 files for deep understanding, quick review, an
 | # | Topic | Status |
 |---|-------|--------|
 | 04-03 | Garbage Collection | ✅ Done |
+| 04-04 | Object Methods & this | ✅ Done |
 
 ---
 
